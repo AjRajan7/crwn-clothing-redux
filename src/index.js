@@ -18,7 +18,7 @@ ReactDOM.render(
     <PersistGate persistor={persistor}>
     <App />
     </PersistGate>
-    
+
     </BrowserRouter>
     
   </React.StrictMode>
